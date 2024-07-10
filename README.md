@@ -26,3 +26,6 @@
 
 #### Add fourth.txt to the staging area
 ![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_9.PNG?raw=true)
+
+#### Commit with the message adding fourth.txt
+![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_10.PNG?raw=true)
