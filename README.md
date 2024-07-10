@@ -1,6 +1,6 @@
 # learn_git
 
-#### Image 1
+#### Creating a folder called LEARN_GIT
 ![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_1.PNG?raw=true)
 
 #### Changing Directory
@@ -11,3 +11,7 @@
 
 #### Initializing an empty git repository
 ![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_4.PNG?raw=true)
+
+#### Adding Third.txt to the staging area
+![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_5.PNG?raw=true)
+
