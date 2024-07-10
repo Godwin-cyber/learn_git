@@ -35,3 +35,6 @@
 
 #### Add this change to the staging area 
 ![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_12.PNG?raw=true)
+
+#### Commit with the message "Removing third.txt"
+![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_13.PNG?raw=true)
