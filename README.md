@@ -38,3 +38,6 @@
 
 #### Commit with the message "Removing third.txt"
 ![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_13.PNG?raw=true)
+
+#### Check out your commits using git log
+![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_14.PNG?raw=true)
