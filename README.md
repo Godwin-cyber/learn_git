@@ -23,3 +23,6 @@
 
 #### Create another file called fourth.txt
 ![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_8.PNG?raw=true)
+
+#### Add fourth.txt to the staging area
+![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_9.PNG?raw=true)
