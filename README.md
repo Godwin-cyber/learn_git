@@ -41,3 +41,6 @@
 
 #### Check out your commits using git log
 ![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_14.PNG?raw=true)
+
+#### Change your global settings to core.pager=cat
+![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_15.PNG?raw=true)
