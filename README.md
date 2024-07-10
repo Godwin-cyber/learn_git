@@ -17,3 +17,6 @@
 
 #### Commit with the message "adding third.txt"
 ![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_6.PNG?raw=true)
+
+#### Removing third.txt
+![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_7.PNG?raw=true)
