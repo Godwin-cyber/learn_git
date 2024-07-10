@@ -32,3 +32,6 @@
 
 #### Remove the third.txt file
 ![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_11.PNG?raw=true)
+
+#### Add this change to the staging area 
+![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_12.PNG?raw=true)
