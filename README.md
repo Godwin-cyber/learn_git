@@ -15,3 +15,5 @@
 #### Adding Third.txt to the staging area
 ![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_5.PNG?raw=true)
 
+#### Commit with the message "adding third.txt"
+![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_6.PNG?raw=true)
