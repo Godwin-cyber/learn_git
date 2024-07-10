@@ -44,3 +44,6 @@
 
 #### Change your global settings to core.pager=cat
 ![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_15.PNG?raw=true)
+
+#### Write the appropraite command to list all global settings
+![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_16.PNG?raw=true)
