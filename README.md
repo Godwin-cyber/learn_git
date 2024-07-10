@@ -29,3 +29,6 @@
 
 #### Commit with the message adding fourth.txt
 ![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_10.PNG?raw=true)
+
+#### Remove the third.txt file
+![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_11.PNG?raw=true)
