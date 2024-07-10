@@ -2,3 +2,6 @@
 
 #### Image 1
 ![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_1.PNG?raw=true)
+
+#### Changing Directory
+![LEARN GIT](https://github.com/Godwin-cyber/learn_git/blob/main/images/cap_10.PNG?raw=true)
